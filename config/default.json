@@ -1,4 +1,4 @@
 {
 	"mongoURI": "mongodb+srv://ishanbagchi:ishaniman22@cluster0.ve9em.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority",
-	"baseUrl": "https://url-shortner-kmeyy.run-us-west2.goorm.io"
+	"baseUrl": "https://ishan-us.herokuapp.com/"
 }
